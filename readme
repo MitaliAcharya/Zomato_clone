@@ -1,0 +1,9 @@
+https://cssgradient.io/ (for gradients)
+->Some important concepts used
+	Flex Direction (row or column)
+	height:calc()
+	overflow
+	transition
+	object fit
+	.className attributeName{}
+	accent color 
